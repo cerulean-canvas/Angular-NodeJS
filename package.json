@@ -1,5 +1,5 @@
 {
-  "name": "Angular-NodeJs Example",
+  "name": "web-app",
   "version": "1.0.0",
   "description": "demonstration for docker multistage builds",
   "main": "index.js",
