@@ -1,5 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 app-root {
-  background-color: green;
+  height: 200px;
+  background-image: linear-gradient(to right, MidNightBlue , Black);
+  font-family: Palatino;
   color: white;
 }
