@@ -1,1 +1,1 @@
-# Angular-NodeJS
+# Containerized Angular-Node.js application
