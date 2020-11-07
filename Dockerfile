@@ -7,7 +7,7 @@ FROM node:10 AS server-build
 WORKDIR /root/
 COPY --from=ui-build /usr/src/app/appfiles/dist ./appfiles/dist
 COPY package*.json ./
-RUN npm install
+RUN npm install express
 COPY index.js .
 
 EXPOSE 3070
